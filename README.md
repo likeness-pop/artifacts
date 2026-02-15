@@ -13,6 +13,8 @@
 
 *forthcoming*
 
-## Publications
+## Bibliography
 
-* [](./publications/)
+| Publications                   | Presentations                       | Posters                                  | Applications                 |
+| :---:                          | :---:                               | :---:                                    | :---:                        |
+| [:open_book:](./publications/) | [:speaking_head:](./presentations/) | [:chart_with_upwards_trend:](./posters/) | [:toolbox:](./applications/) |
