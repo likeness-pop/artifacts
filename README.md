@@ -7,7 +7,7 @@
 *more forthcoming*
 
 * UrbanPop is the abstract model for creating synthetic population
-* Likeness are the tools to get this is done (currently)
+* Likeness is the toolkit to get this done (currently)
 
 ## Background
 
