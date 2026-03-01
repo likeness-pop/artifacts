@@ -6,13 +6,13 @@
 
 ## 2025
 
-* **Tuccillo, J.V. and Gaboardi, J.D.** (2025) *Life in a Parallel Universe: Capabilities and Applications of the UrbanPop Spatial Microsimulation Framework*. Oak Ridge National Laboratory, GSHS Division Seminar Series.
-* **Tuccillo, J.V., Gaboardi, J.D., Isber, J., and Dunkley, J.M.** (2025) *Producing High-fidelity Synthetic Population Ensembles at Scale*. 3rd Annual Conference of the US Research Software Engineer Association (US-RSE‘25). Philadelphia, PA.
+* **Tuccillo, J.V. and Gaboardi, J.D.** (2025) *Life in a Parallel Universe: Capabilities and Applications of the UrbanPop Spatial Microsimulation Framework*. Oak Ridge National Laboratory, GSHS Division Seminar Series. DOI: [10.5281/zenodo.18826265](https://doi.org/10.5281/zenodo.18826265)
+* **Tuccillo, J.V., Gaboardi, J.D., Isber, J., and Dunkley, J.M.** (2025) *Producing High-fidelity Synthetic Population Ensembles at Scale*. 3rd Annual Conference of the US Research Software Engineer Association (US-RSE‘25). Philadelphia, PA. DOI: [10.5281/zenodo.18826346](https://doi.org/10.5281/zenodo.18826346)
 * **Tuccillo, J.V.** (2025) *Using Synthetic Populations to Model Travel Burdens among US Veterans Health Administration Patients*. 2025 ACS Data Users Conference. Washington, D.C., USA
 
 ## 2024
 
-* **Tuccillo, J.V. and Gaboardi, J.D.** (2024) *Capabilities and Applications of the UrbanPop Spatial Microsimulation Framework. United States. Census Bureau’s GEO Seminar Series.
+* **Tuccillo, J.V. and Gaboardi, J.D.** (2024) *Capabilities and Applications of the UrbanPop Spatial Microsimulation Framework*. United States. Census Bureau’s GEO Seminar Series.
 
 ## 2023
 
