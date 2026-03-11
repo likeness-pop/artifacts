@@ -15,6 +15,6 @@
 
 ## Bibliography
 
-| Publications                   | Presentations                       | Posters                                  | Applications                 |
-| :---:                          | :---:                               | :---:                                    | :---:                        |
-| [:open_book:](./publications/) | [:speaking_head:](./presentations/) | [:chart_with_upwards_trend:](./posters/) | [:toolbox:](./applications/) |
+| Publications                   | Presentations                       | Posters                                  | Applications                 | Demos                        |
+| :---:                          | :---:                               | :---:                                    | :---:                        | :---:                        |
+| [:open_book:](./publications/) | [:speaking_head:](./presentations/) | [:chart_with_upwards_trend:](./posters/) | [:toolbox:](./applications/) | [:mortar_board:](./demos/)   |
