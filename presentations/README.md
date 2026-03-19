@@ -1,8 +1,12 @@
 # Presentations
 
-## 2026
+## 2027
 
 ⏳
+
+## 2026
+
+* **Gaboardi, J.D. and Tuccillo, J.V.** (2026) *Where Computation Meets Human Dynamics: The state of the Likeness Ecosystem*. American Association of Geographers 2026 Annual Meeting, San Francisco, CA, USA. DOI: [10.5281/zenodo.19120345](https://doi.org/10.5281/zenodo.18826345)
 
 ## 2025
 
