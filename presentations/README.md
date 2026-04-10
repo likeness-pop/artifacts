@@ -6,6 +6,7 @@
 
 ## 2026
 
+* **Gaboardi, J.D.** (2026) *Population, Geography, & Computation*. Department of Geography at Florida State University – Florida GIS Applications. DOI: [10.5281/zenodo.19498479](https://doi.org/10.5281/zenodo.19498479)
 * **Gaboardi, J.D. and Tuccillo, J.V.** (2026) *Where Computation Meets Human Dynamics: The state of the Likeness Ecosystem*. American Association of Geographers 2026 Annual Meeting, San Francisco, CA, USA. DOI: [10.5281/zenodo.19120345](https://doi.org/10.5281/zenodo.19120345)
 
 ## 2025
