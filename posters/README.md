@@ -2,7 +2,7 @@
 
 ## 2026
 
-* **Tuccillo, J.V., Cunningham, A.R., and Gaboardi, J.D., Kapadia, A., and Trafton, J.A.** (2026) *EA Comparative Assessment of Veterans Health Administration Patient Mobility for the Contiguous United States*. Population Association of America 2026 Annual Meeting, St. Louis, PA., USA. DOI: [10.5281/zenodo.20089628](https://doi.org/10.5281/zenodo.20089628)
+* **Tuccillo, J.V., Cunningham, A.R., and Gaboardi, J.D., Kapadia, A., and Trafton, J.A.** (2026) *A Comparative Assessment of Veterans Health Administration Patient Mobility for the Contiguous United States*. Population Association of America 2026 Annual Meeting, St. Louis, PA., USA. DOI: [10.5281/zenodo.20089628](https://doi.org/10.5281/zenodo.20089628)
 
 ## 2024
 
