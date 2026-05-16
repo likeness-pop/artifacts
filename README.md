@@ -1,27 +1,29 @@
-# UrbanPop & Likeness – Background, Bibliography, & Data
+# UrbanPop & Likeness
 
-## Overview
+## Background, Bibliography, & Data
 
-### What's the difference between UrbanPop and Likeness?
+### Overview
+
+#### What's the difference between UrbanPop and Likeness?
 
 *more forthcoming*
 
 * UrbanPop is the abstract model for creating synthetic population
 * Likeness is the toolkit to get this done (currently)
 
-## Background
+### Background
 
 *forthcoming*
 
-## Bibliography
+### Bibliography
 
 | Publications                   | Presentations                       | Posters                                  | Applications                 | Demos                        |
 | :---:                          | :---:                               | :---:                                    | :---:                        | :---:                        |
 | [:open_book:](./publications/) | [:speaking_head:](./presentations/) | [:chart_with_upwards_trend:](./posters/) | [:toolbox:](./applications/) | [:mortar_board:](./demos/)   |
 
-## Data
+### Data
 
-### UrbanPop 2019 Baseline Population
+#### UrbanPop 2019 Baseline Population
 
 * **Tuccillo, J.V., & Gaboardi, J.D.** (2026). UrbanPop 2019 Baseline Population (1.0.0) [Data set]. Zenodo. DOI: [10.83319/dataset/4240-ea92](https://doi.org/10.83319/dataset/4240-ea92)
 
