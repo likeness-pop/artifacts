@@ -1,8 +1,12 @@
 # Publications
 
-## 2026
+## 2027
 
 ⏳
+
+## 2026
+
+* **Gaboardi, J.D., Tuccillo, J.V., Grant, J.N., Isber, J., Hagstrom, A.L., and Rao, N.D.** (2026) *Scalable Generation of High-fidelity Synthetic Population Ensembles*. Future Generation Computer Systems. 185, 108619. DOI: [10.1016/j.future.2026.108619](https://doi.org/10.1016/j.future.2026.108619)
 
 ## 2025
 
@@ -16,7 +20,7 @@
 ## 2023
 
 * **Tuccillo, J.V., and Gaboardi, J.D.** (2023) *Spatial Microsimulation and Activity Allocation in Python: An Update on the Likeness Toolkit*. Proceedings of the 22nd Python in Science Conference. 93–100 DOI: [10.25080/gerudo-f2bc6f59-00c](https://proceedings.scipy.org/articles/gerudo-f2bc6f59-00c)
-* **Tuccillo, J.V., Stewart, R., Rose, A., Trombley, N., Moehl, J., Nagle, N.N., & Bhaduri, B.** (2023). *UrbanPop: A spatial microsimulation framework for exploring demographic influences on human dynamics*. Applied Geography, 151, 102844. DOI: [10.1016/j.apgeog.2022.102844](https://doi.org/10.1016/j.apgeog.2022.102844)
+* **Tuccillo, J.V., Stewart, R., Rose, A., Trombley, N., Moehl, J., Nagle, N.N., & Bhaduri, B.** (2023). *UrbanPop: A spatial microsimulation framework for exploring demographic influences on human dynamics*. Applied Geography. 151, 102844. DOI: [10.1016/j.apgeog.2022.102844](https://doi.org/10.1016/j.apgeog.2022.102844)
 
 ## 2022
 
